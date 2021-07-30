@@ -1,5 +1,3 @@
-### [Temsy Chen](https://temsychen.github.io)
-
 # 👋 Hi, I'm Temsy 😊
 
 ### I'm a Data Scientist :woman_technologist: with a background in film post production 🎬

@@ -6,7 +6,7 @@
 
 -  **Languages :** Python, SQL, Mandarin Chinese ⚡
 -  **Passions :** Saving the environment 🌎, and Art 🦩
--  **Hobbies :** Sewing, Knitting, Quilting :sewing_needle:
+-  **Hobbies :** Sewing, Knitting, Quilting 🙌
 -  **Learning :** I learned to swim this year 🏊‍♀ Also learning how to play the drums 🎵
 - 📫 Reach me by email: [temsy.chen@gmail.com](mailto:temsy.chen@gmail.com)
 

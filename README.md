@@ -1,13 +1,11 @@
-# 👋 Hi, I'm Temsy 😊
-
-### I'm a Data Scientist :woman_technologist: with a background in film editing 🎬
+# 👋 Hi, I'm Temsy 😊 and I'm a Data Scientist :woman_technologist:
 
 ## About Me:
 
 -  **Languages :** Python, SQL, Mandarin Chinese ⚡
--  **Passions :** Saving the environment 🌎, and Art 🦩
--  **Hobbies :** Sewing, Knitting, Quilting 🙌
--  **Learning :** I learned to swim this year 🏊‍♀ Also learning how to play the drums 🎵
+-  **Cities I've Called Home:** Houston, Austin, Taipei, NYC, San Diego, LA, Orange County 🏠
+-  **Previous Career :** Video Editor 🎬
+-  **New Things I'm Learning :** Swimming 🏊‍♀ Playing the drums 🎵 
 - 📫 Reach me by email: [temsy.chen@gmail.com](mailto:temsy.chen@gmail.com)
 
 Here are my github stats:

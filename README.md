@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Temsy 😊
 
-### I'm a Data Scientist :woman_technologist: with a background in film post production 🎬
+### I'm a Data Scientist :woman_technologist: with a background in film editing 🎬
 
 ## About Me:
 
@@ -12,6 +12,6 @@
 
 Here are my github stats:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=temsychen)](https://github.com/anuraghazra/github-readme-stats)
+[![Temsy's github stats](https://github-readme-stats.vercel.app/api?username=temsychen&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I like meeting new people, so please reach out and say hi!</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>Let's connect!</em>

@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Temsy 😊 and I'm a Data Scientist :woman_technologist:
+# 👋 Hi, I'm Temsy 😊 and I'm a Data Engineer :woman_technologist:
 
 ## About Me:
 
